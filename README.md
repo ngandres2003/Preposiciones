@@ -9,8 +9,7 @@ Este proyecto implementa operaciones lógicas en proposiciones y permite realiza
 - [Funcionalidades](#funcionalidades)
 - [Requisitos](#requisitos)
 - [Instrucciones de Ejecución](#instrucciones-de-ejecución)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
+
 
 ## Descripción
 
